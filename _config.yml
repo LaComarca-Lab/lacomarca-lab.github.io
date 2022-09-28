@@ -1,7 +1,7 @@
 # SITE SETTINGS
-title: LACOMARCA                        # Title in top navigation bar (navbar) and <head>
+title: LaCoMaRCA                        # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
-author: Gonzalo Contreras Aso
+author: Peter Desmet                    # Used for copyright statement in footer
 baseurl: "/"                   
 
 # SOCIAL PROFILES
