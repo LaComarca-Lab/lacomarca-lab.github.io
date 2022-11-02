@@ -7,7 +7,7 @@ baseurl: "/"
 # SOCIAL PROFILES
 email: laboratorio.lacomarca@gmail.com  # Social icon in footer
 twitter_username: lacomarca_urjc           # Social icon in footer
-github_username: lacomarca_lab            # Social icon in footer
+github_username: LaComarca-Lab            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0

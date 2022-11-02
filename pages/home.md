@@ -14,5 +14,5 @@ permalink: /
 
 Más información:
 
-- [Estructura organizativa]({{ '/estructura/' | relative_url }})
+- [Estructura organizativa]({{ '/team/' | relative_url }})
 - [Servicios y tarifa]({{ '/servicios/' | relative_url }})

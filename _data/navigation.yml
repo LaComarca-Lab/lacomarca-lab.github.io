@@ -1,19 +1,21 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+- text: Inicio # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
+- text: Sobre el Laboratorio
   href: /about/
 - text: Estructura
-  href: /estructura/
+  href: /team/
+- text: Investigación
+  href: /research/
 - text: Blog
   href: /blog/
-- text: Contacto
-  href: /contacto/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Servicios
     href: /servicios/
+  - text: Contacto
+    href: /contacto/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Otros" # Title for block of menu items
   - text: Link a nuestro GitHub

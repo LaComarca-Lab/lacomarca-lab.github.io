@@ -3,7 +3,7 @@ layout: team
 title: Estructura
 description: Quiénes somos
 background: assets/theme/images/network-pawns1.jpg
-permalink: /estructura/
+permalink: /team/
 ---
 
 <!--On this page you can list team members by defining them in [`_data/team.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/team.yml).-->
