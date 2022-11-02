@@ -1,8 +1,9 @@
 ---
 title: Servicios y tarifas
 description: Qué servicios ofrecemos desde el Laboratorio
-background: https://images.unsplash.com/photo-1475906089153-644d9452ce87?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80
+background: assets/theme/images/network-white1.jpg
 permalink: /servicios/
+toc: true
 ---
 
 Ofrecemos todos los servicios de análisis estructural, de dinámica y procesos en redes complejas, tanto sintéticas como reales, desde la obtención y construcción de redes a la auditoría de propiedades como la resiliencia, vulnerabilidad y mejora óptima de la estructura y la dinámica. En particular:

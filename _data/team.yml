@@ -2,23 +2,25 @@
 
 - name: Miguel Romance del Río
   role: Director Científico
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
+  image: assets/theme/images/miguelromance.png # Can be external link
   description: > 
     Catedrático de la URJC
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0001-9259-9716
   github: github_name
   email: miguel.romance@urjc.es
 
 - name: David González de la Aleja Gallego
   role:  Codirector de Tecnología
+  image: assets/theme/images/davidaleja.jpg 
   description: >
     Profesor Contratado Doctor de la URJC
 
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0002-4477-1638
   email: david.aleja@urjc.es
 
 - name: Gonzalo Contreras Aso
   role:  Codirector de Tecnología
+  image: assets/theme/images/gonzalocontreras.png 
   description: >
     Investigador predoctoral de la URJC
 
@@ -28,40 +30,51 @@
 
 - name: Regino Criado Herrero
   role: Investigador
+  image: assets/theme/images/reginocriado.png 
   description: >
     Catedrático de la URJC
 
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0001-7954-6169
   email: regino.criado@urjc.es
     
+- name: Karin Alfaro Bittner
+  role: Investigadora
+  image: assets/theme/images/karinalfaro.png 
+  description: >
+    Investigadora Internacional Distinguida de la URJC
+
+  orcid: 0000-0003-3998-453X
+  email: karin.alfaro@urjc.es
+
+- name: Eva Primo Tárraga
+  role: Investigadora
+  description: >
+    Investigadora de la URJC
+
+  orcid: 0000-0001-9979-5592
+  email: eva.primo@urjc.es
+
+- name: Guillermo Vera de Salas
+  role: Investigador
+  description: >
+    Investigador de la URJC
+
+  orcid:  0000-0002-3517-7223
+  email: guillermo.vera@urjc.es
+
 - name: Stefano Boccaletti
   role: Investigador
   description: >
     Investigador Internacional Distinguido de la URJC
 
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0002-5758-7012
   email: stefano.boccaletti@urjc.es
-
-- name: Karin P. Alfaro-Bittner
-  role: Investigadora
-  description: >
-    Investigadora Internacional Distinguida de la URJC
-
-  orcid: 0000-0000-0000-0000
-  email: karin.alfaro@urjc.es
     
 - name: Alejandro J. García del Amo
   role: Investigador
   description: >
     Profesor Titular de la URJC
 
-  orcid: 0000-0000-0000-0000
+  orcid: 0000-0001-8849-0726
   email: alejandro.garciadelamo@urjc.es
 
-- name: Eva Primo Tárraga
-  role: Investigadora
-  description: >
-    Investigadora distinguida de la URJC
-
-  orcid: 0000-0000-0000-0000
-  email: eva.primo@urjc.es

@@ -5,21 +5,25 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Grupo de investigación en Análisis y Computación con Redes Complejas de la URJC
+      href: https://gestion2.urjc.es/pdi/grupos-investigacion/net-comp
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+
+    - text: Red de Laboratorios de la URJC (REDLABU)
+      href: https://www.urjc.es/i-d-i/infraestructuras-de-apoyo-a-la-investigacion/364-laboratorios-redlabu#mostoles
+      new_window: true
+
+    - text: Información de LaCoMaRCA en la REDLABU
+      href: https://www.urjc.es/i-d-i/infraestructuras-de-apoyo-a-la-investigacion/7492-laboratorio-de-computacion-matematica-en-redes-complejas-y-aplicaciones-lacomarca#equipos-disponibles
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
+      # See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
       to customize this text.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
-  Content on this site is licensed under a [CC BY 4.0 License](http://creativecommons.org/licenses/by/4.0/).
-  \| Theme: [Petridish](https://github.com/peterdesmet/petridish)
+  Theme: [Petridish](https://github.com/peterdesmet/petridish)

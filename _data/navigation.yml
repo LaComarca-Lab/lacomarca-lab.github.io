@@ -6,20 +6,16 @@
   href: /about/
 - text: Estructura
   href: /estructura/
-- text: Servicios
-  href: /servicios/
 - text: Blog
   href: /blog/
 - text: Contacto
   href: /contacto/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /installation/
-  - text: Configuration
-    href: /configuration/
+  - text: Servicios
+    href: /servicios/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link to GitHub
+  - text: "Otros" # Title for block of menu items
+  - text: Link a nuestro GitHub
     href: https://github.com/LaComarca-Lab/lacomarca-lab.github.io
     new_window: true
