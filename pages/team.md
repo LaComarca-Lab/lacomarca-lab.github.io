@@ -2,7 +2,7 @@
 layout: team
 title: Estructura
 description: Quiénes somos
-background: assets/theme/images/network-pawns1.jpg
+background: assets/theme/backgrounds/network-pawns1.jpg
 permalink: /team/
 ---
 

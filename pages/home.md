@@ -2,7 +2,7 @@
 layout: home
 title: Laboratorio de Computación Matemática en Redes Complejas y Aplicaciones
 description: Grupo de Investigación de la URJC
-background: /assets/theme/images/network-dark1.jpg
+background: /assets/theme/backgrounds/network-dark1.jpg
 permalink: /
 ---
 

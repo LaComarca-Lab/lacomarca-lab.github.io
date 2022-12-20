@@ -1,7 +1,7 @@
 ---
 title: About
 description: Quiénes somos y qué hacemos.
-background: assets/theme/images/network-blue.jpg
+background: assets/theme/backgrounds/network-blue.jpg
 permalink: /about/
 ---
 

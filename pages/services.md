@@ -1,7 +1,7 @@
 ---
 title: Servicios y tarifas
 description: Qué servicios ofrecemos desde el Laboratorio
-background: assets/theme/images/network-white1.jpg
+background: assets/theme/backgrounds/network-white1.jpg
 permalink: /servicios/
 toc: true
 ---

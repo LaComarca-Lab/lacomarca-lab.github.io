@@ -1,7 +1,7 @@
 ---
 title: Contacto
 description: Para dudas o cuestiones referentes al Laboratorio
-background: assets/theme/images/network-pawns2.jpg
+background: assets/theme/backgrounds/network-pawns2.jpg
 permalink: /contacto/
 ---
 

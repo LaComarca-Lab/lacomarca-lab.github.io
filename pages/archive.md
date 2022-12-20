@@ -2,7 +2,7 @@
 layout: archive
 title: News
 description: News & blog posts
-background: assets/theme/images/network-dark2.jpg
+background: assets/theme/backgrounds/network-dark2.jpg
 permalink: /blog/
 ---
 
