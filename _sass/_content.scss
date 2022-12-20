@@ -105,4 +105,9 @@
 
   // Style tables
   // This is done by replacing '<table' with '<table class="table"' in {{ content }}
+
+  img[alt="Logo"] { 
+    max-width:  40%; 
+    display: block;
+  }
 }

@@ -10,6 +10,7 @@ permalink: /
 
 
 
+![Logo](/assets/theme/images/logoComarcaF.png)
 
 
 Más información:
