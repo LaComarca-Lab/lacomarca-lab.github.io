@@ -7,9 +7,14 @@ permalink: /research/
 
 
 
-En el Laboratorio abarcamos un amplio espectro de conocimiento científico
+En el Laboratorio abarcamos un amplio espectro de conocimiento científico.
 
 RELLENAR
+
+- Fundamentación matemática de las redes complejas
+    - Redes estándar (monocapa, interacciones por pares)
+    - Redes multicapa
+    - Redes de orden superior (simpliciales o hipergrafos)
 
 - Centralidad en redes complejas
     - Non-backtracking
@@ -17,6 +22,7 @@ RELLENAR
     - Control de centralidad
 
 - Dinámica en redes
+    - Fenómenos no lineales y caos
     - Sincronización
     - Teoría de juegos
 
@@ -24,6 +30,7 @@ RELLENAR
     - Redes funcionales
     - Redes parenclíticas
     - Graph Neural Networks
+    - Análisis de series temporales
 
 Y mucho más!
 
