@@ -1,7 +1,7 @@
 ---
 title: Investigación
 description: Líneas científicas y publicaciones
-background: assets/theme/backgrounds/blackboard.jpg
+background: assets/theme/backgrounds/research_glass.jpg
 permalink: /research/
 ---
 
