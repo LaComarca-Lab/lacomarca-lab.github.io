@@ -42,14 +42,14 @@ Síguenos para estar al tanto de nuestras novedades!
 <ol>
     <li><a href="http://doi.org/10.48550/arXiv.2303.08668"> "The transition to synchronization of networked systems"</a>, by A. Bayani, F. Nazarimehr, S. Jafari, K. Kovalenko, G. Contreras-Aso, K. Alfaro-Bittner, R. J. Sánchez-García, S. Boccaletti. <em>arXiv preprint arXiv:2303.08668</em> (2023).</li>
     <li><a href="http://doi.org/10.48550/arXiv.2302.10548"> "Endowing networks with desired symmetries and modular behavior"</a>, by P. Khanra, S. Ghosh, D. Aleja, K. Alfaro-Bittner, G. Contreras-Aso, R. Criado, M. Romance, S. Boccaletti, P. Pal, C. Hens. <em>arXiv preprint arXiv:2302.10548</em> (2023).</li>
-    <li><a href="http://doi.org/10.48550/arXiv.2211.09463"> "Why are there six degrees of separation in a social network?"</a>, by I. Samoylenko, D. Aleja, E. Primo, K. Alfaro-Bittner, E. Vasilyeva, K. Kovalenko, D. Musatov, A.M. Raigorodskii, R. Criado, M. Romance, D. Papo, M. Perc, B. Barzel and S. Boccaletti. <em>arXiv preprint arXiv:2211.09463</em> (2022).</li>
-    <li><a href="http://doi.org/10.48550/arXiv.2211.12929"> "Parametric control of PageRank centrality rankings: a geometrical approach"</a>, by G. Contreras-Aso, R. Criado and M. Romance. <em>arXiv preprint arXiv:2211.12929</em> (2022).</li>
 </ol>       
 
 
 <strong>2023</strong>
 
 <ol>
+    <li><a href="https://doi.org/10.1063/5.0156226"> "Can the PageRank centrality be manipulated to obtain any desired ranking?"</a>, by G. Contreras-Aso, R. Criado and M. Romance. <em>Chaos</em>, 33, 083152 (2023).</li>
+    <li><a href="https://doi.org/10.1103/PhysRevX.13.021032"> "Why are there six degrees of separation in a social network?"</a>, by I. Samoylenko, D. Aleja, E. Primo, K. Alfaro-Bittner, E. Vasilyeva, K. Kovalenko, D. Musatov, A.M. Raigorodskii, R. Criado, M. Romance, D. Papo, M. Perc, B. Barzel and S. Boccaletti. <em>Phys. Rev. X 13</em>, 021032 (2023).</li>
     <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mma.9201"> "A new insight into linguistic pattern analysis based on multilayer hypergraphs for the automatic extraction of text summaries"</a>, by A. Criado-Alonso, D. Aleja, M. Romance, and R. Criado. <em>Math. Methods Appl. Sci.</em>, 0170-4214 (2023),  128306.</li>
     <li><a href="https://aip.scitation.org/doi/abs/10.1063/5.0124687"> "A comprehensive approach for discrete resilience of complex networks"</a>, by S. Iglesias-Perez, S. Moral-Rubio and R. Criado. <em>Chaos</em>, 33, 013111 (2023),  128306.</li>
     <li><a href="http://doi.org/10.1016/j.physa.2022.128306"> "Combining multiplex networks and time series: A new way to optimize real estate forecasting in New York using cab rides"</a>, by S. Iglesias-Perez, S. Moral-Rubio and R. Criado. <em>Physica A</em>, 609 (1) (2023),  128306.</li>
