@@ -48,8 +48,9 @@
 
 - name: Eva Primo Tárraga
   role: Investigadora
+  image: assets/theme/images/placeholder.png 
   description: >
-    Investigadora de la URJC
+    Profesora Contratada Doctor de la URJC
 
   orcid: 0000-0001-9979-5592
   email: eva.primo@urjc.es
@@ -58,21 +59,23 @@
   role: Investigador
   image: assets/theme/images/danielrodriguez.jpg
   description: >
-    Investigador de la URJC
+    Profesor Ayudante Doctor de la URJC
 
   orcid:  0000-0003-3474-6444
   email: danieljose.rodriguez@urjc.es
 
 - name: Guillermo Vera de Salas
   role: Investigador
+  image: assets/theme/images/placeholder.png 
   description: >
-    Investigador de la URJC
+    Profesor Ayudante Doctor de la URJC
 
   orcid:  0000-0002-3517-7223
   email: guillermo.vera@urjc.es
 
 - name: Stefano Boccaletti
   role: Investigador
+  image: assets/theme/images/placeholder.png 
   description: >
     Investigador Internacional Distinguido de la URJC
 
@@ -81,9 +84,9 @@
     
 - name: Alejandro J. García del Amo
   role: Investigador
+  image: assets/theme/images/placeholder.png 
   description: >
     Profesor Titular de la URJC
 
   orcid: 0000-0001-8849-0726
   email: alejandro.garciadelamo@urjc.es
-

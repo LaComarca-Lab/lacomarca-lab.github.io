@@ -2,24 +2,28 @@
 
 - name: Cristian Pérez Corral
   role: Becario de colaboración & Estudiante de TFG
+  image: assets/theme/images/placeholder.png 
   description: >
     Estudiante del doble grado de Matemáticas e Informática
 
     
 - name: Lucía Salgado Barrio
   role: Estudiante de TFG
+  image: assets/theme/images/placeholder.png 
   description: >
     Estudiante del doble grado de Matemáticas e Informática
 
     
 - name: Juan Antonio Gordillo Gayo
   role: Estudiante de TFG
+  image: assets/theme/images/placeholder.png 
   description: >
     Estudiante del doble grado de Matemáticas e Informática
 
     
 - name: Sergio Salazar Cárdenas
   role: Estudiante de TFG
+  image: assets/theme/images/placeholder.png 
   description: >
     Estudiante del doble grado de Matemáticas e Informática
     

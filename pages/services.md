@@ -20,19 +20,24 @@ Ofrecemos todos los servicios de análisis estructural, de dinámica y procesos 
 
 - Análisis de datos, desarrollo y aplicación de métodos de ciencia de datos e inteligencia artificial tanto en redes complejas como usando redes complejas. Análisis comparativo y validación de resultados.
 
+
 ## Equipos disponibles
 
-Equipos de Computación:
+Equipos de computación:
 
 - 1 estación de trabajo HP Z800 con doble procesador Intel Xeon X5670 (24 núcleos) con 24 GB de RAM y doble tarjeta gráfica NVIDIA Quadro K6000.
 
-- 2 estaciones de trabajo HP Z820 cada una con doble procesador Xeon E5-2667 v2 (32 núcleos) con 64 GB de RAM y tarjeta gráfica NVIDIA Quadro K6000. 
+- 2 estaciones de trabajo HP Z820 cada una con doble procesador Intel Xeon E5-2667 v2 (32 núcleos) con 64 GB de RAM y tarjeta gráfica NVIDIA Quadro K6000. 
 
-Equipos de almacenamiento masivo:
+- 2 estaciones de trabajo HP Z840 cada una con doble procesador Intel Xeon E5-2699 v4 (88 núcleos) con 125 GB de RAM y tarjeta gráfica NVIDIA Quadro P5000. 
 
-- 1 NAS Synology DS220j de 16 Tb de capacidad. 
+- 1 estaciones de trabajo HP Z6 G4 cada una con doble procesador Intel Xeon Gold 5220R (96 núcleos) con 125 GB de RAM y tarjeta gráfica NVIDIA Quadro T400. 
+
+Equipos de almacenamiento:
+
+- 2 NAS Synology DS220j de 16 Tb de capacidad. 
 
 
 ## Tarifas
 
-INSERT HERE
+--TBD--

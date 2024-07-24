@@ -5,10 +5,10 @@ background: assets/theme/backgrounds/network-pawns2.jpg
 permalink: /contacto/
 ---
 
-Responsable: Miguel Romance del Río
+<b>Responsable</b>: Miguel Romance del Río
 
-Dirección: Despacho 035, Departamental II, Campus de Móstoles, C/Tulipán s/n 28933 Móstoles
+<b>Dirección</b>: Despacho 035, Departamental II, Campus de Móstoles, C/Tulipán s/n 28933 Móstoles
 
-Departamento: Matemática Aplicada, Ciencia e Ingeniería de Materiales y Tecnología Electrónica
+<b>Departamento</b>: Matemática Aplicada, Ciencia e Ingeniería de Materiales y Tecnología Electrónica
 
-Email: miguel.romance@urjc.es
+<b>Email</b>: miguel.romance (at) urjc.es

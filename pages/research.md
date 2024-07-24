@@ -40,14 +40,24 @@ Síguenos para estar al tanto de nuestras novedades!
 <strong>Preprints</strong>
 
 <ol>
-    <li><a href="http://doi.org/10.48550/arXiv.2303.08668"> "The transition to synchronization of networked systems"</a>, by A. Bayani, F. Nazarimehr, S. Jafari, K. Kovalenko, G. Contreras-Aso, K. Alfaro-Bittner, R. J. Sánchez-García, S. Boccaletti. <em>arXiv preprint arXiv:2303.08668</em> (2023).</li>
-    <li><a href="http://doi.org/10.48550/arXiv.2302.10548"> "Endowing networks with desired symmetries and modular behavior"</a>, by P. Khanra, S. Ghosh, D. Aleja, K. Alfaro-Bittner, G. Contreras-Aso, R. Criado, M. Romance, S. Boccaletti, P. Pal, C. Hens. <em>arXiv preprint arXiv:2302.10548</em> (2023).</li>
-</ol>       
+    <li><a href="https://doi.org/10.48550/arXiv.2407.06198"> "Time-dependent Personalized PageRank for temporal networks: discrete and continuous scales"</a>, by D. Aleja, J. Flores, E. Primo, M. Romance. <em>Preprint arXiv:2407.06198</em> (2024).</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2403.11825"> "Beyond directed hypergraphs: heterogeneous hypergraphs and spectral centralities"</a>, by G. Contreras-Aso, R. Criado, M. Romance. <em>Preprint arXiv:2403.11825</em> (2024).</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2310.20335"> "Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs"</a>, by G. Contreras-Aso, C. Pérez-Corral, M. Romance <em>Preprint arXiv:2310.20335</em> (2023).</li>
+</ol>
+
+
+<strong>2024</strong>
+
+<ol>
+    <li><a href="https://doi.org/10.1038/s41467-024-48203-6"> "The transition to synchronization of networked systems"</a>, by A. Bayani, F. Nazarimehr, S. Jafari, K. Kovalenko, G. Contreras-Aso, K. Alfaro-Bittner, R. J. Sánchez-García, S. Boccaletti. <em>Nature Communications</em> 15, 4955 (2024).</li>
+</ol>
 
 
 <strong>2023</strong>
 
 <ol>
+    <li><a href="https://doi.org/10.1016/j.chaos.2023.114200"> "Detecting communities in higher-order networks by using their derivative graphs"</a>, by G. Contreras-Aso, R. Criado, G. Vera de Salas, J. Yang. <em>Chaos, Solitons and Fractals</em> Vol. 177, 114200 (2023).</li>
+    <li><a href="https://doi.org/10.1103/PhysRevE.108.054309"> "Endowing networks with desired symmetries and modular behavior"</a>, by P. Khanra, S. Ghosh, D. Aleja, K. Alfaro-Bittner, G. Contreras-Aso, R. Criado, M. Romance, S. Boccaletti, P. Pal, C. Hens. <em>Physical Review E</em> 108, 054309 (2023).</li>
     <li><a href="https://doi.org/10.1063/5.0156226"> "Can the PageRank centrality be manipulated to obtain any desired ranking?"</a>, by G. Contreras-Aso, R. Criado and M. Romance. <em>Chaos</em>, 33, 083152 (2023).</li>
     <li><a href="https://doi.org/10.1103/PhysRevX.13.021032"> "Why are there six degrees of separation in a social network?"</a>, by I. Samoylenko, D. Aleja, E. Primo, K. Alfaro-Bittner, E. Vasilyeva, K. Kovalenko, D. Musatov, A.M. Raigorodskii, R. Criado, M. Romance, D. Papo, M. Perc, B. Barzel and S. Boccaletti. <em>Phys. Rev. X 13</em>, 021032 (2023).</li>
     <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mma.9201"> "A new insight into linguistic pattern analysis based on multilayer hypergraphs for the automatic extraction of text summaries"</a>, by A. Criado-Alonso, D. Aleja, M. Romance, and R. Criado. <em>Math. Methods Appl. Sci.</em>, 0170-4214 (2023),  128306.</li>
@@ -59,7 +69,7 @@ Síguenos para estar al tanto de nuestras novedades!
 <strong>2022</strong>
 
 <ol>
-    <li><a href="http://doi.org/10.1016/j.chaos.2022.112310"> "A compartmental model for cyber-epidemics"</a>, by D. Aleja, G. Contreras-Aso, K. Alfaro-Bittner, E. Primo, R. Criado, M. Romance and S. Boccaletti. <em>Chaos, Solitons and Fractals</em>, 161 (2022),  112310. </li>
+    <li><a href="http://doi.org/10.1016/j.chaos.2022.112310"> "A compartmental model for cyber-epidemics"</a>, by D. Aleja, G. Contreras-Aso, K. Alfaro-Bittner, E. Primo, R. Criado, M. Romance and S. Boccaletti. <em>Chaos, Solitons and Fractals</em>, Vol. 161 (2022),  112310. </li>
     <li><a href="http://doi.org/10.1016/j.chaos.2022.112397"> "Vector centrality in hypergraphs"</a>, by K. Kovalenko, M. Romance, E. Vasilyeva, D. Aleja, R. Criado, D. Musatov, A. M. Raigorodskii, J. Flores, I. Samoylenko, K. Alfaro-Bittner, M. Perc and S. Boccaletti. <em>Chaos, Solitons and Fractals</em>, 162 (2022),  112397.</li>
     <li><a href="http://doi.org/10.1002/mma.8478"> "Controlling centrality: The inverse ranking problem for spectral centralities of complex networks"</a>, by E. Garcia and M. Romance. <em>Math. Methods Appl. Sci.</em>, 45(17) (2022),  11755-11768. </li>
     <li><a href="http://doi.org/10.1016/j.chaos.2022.112604"> "Derivative of a hypergraph as a tool for linguistic pattern analysis"</a>, by A. Criado-Alonso, D. Aleja, M. Romance and R. Criado. <em>Chaos, Solitons and Fractals</em>, 163 (2022),  112604.</li>
