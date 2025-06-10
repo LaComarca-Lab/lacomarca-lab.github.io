@@ -40,13 +40,16 @@ Síguenos para estar al tanto de nuestras novedades!
 <strong>Preprints</strong>
 
 <ol>
-    <li><a href="https://doi.org/10.48550/arXiv.2310.20335"> "Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs"</a>, by G. Contreras-Aso, C. Pérez-Corral, M. Romance <em>Preprint available at arXiv:2310.20335</em> (2023).</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2503.19927"> "Fully personalized PageRank and algebraic methods to distribute a random walker"</a>, by G. Contreras-Aso, R. Criado, M. Romance. <em>Preprint available at arXiv:2503.19927</em> (2025).</li>
+    <li><a href="https://doi.org/10.48550/arXiv:2502.14110"> "On the application of Visibility Graphs in the Spectral Domain for Speaker Recognition"</a>, by Hernan Bocaccio, Sergio Iglesias-Pérez, Miguel Romance, Regino Criado, Gabriel B. Mindlin. <em>Preprint available at arXiv:2502.14110</em> (2025).</li>
 </ol>
+
 
 
 <strong>2024</strong>
 
 <ol>
+    <li><a href="https://doi.org/10.3934/math.20241539"> "Uplifting edges in higher order networks: spectral centralities for non-uniform hypergraphs"</a>, by G. Contreras-Aso, C. Pérez-Corral, M. Romance. <em>AIMS Mathematics</em> Vol. 9, Issue 11, 32045-32075 (2024).</li>
     <li><a href="https://doi.org/10.1093/comnet/cnae037"> "Beyond directed hypergraphs: heterogeneous hypergraphs and spectral centralities"</a>, by G. Contreras-Aso, R. Criado, M. Romance. <em>Journal of Complex Networks</em> Vol. 12, Issue 4, cnae037 (2024).</li>
     <li><a href="https://doi.org/10.1016/j.chaos.2024.115383"> "Analytical results on local resilience and a composed resilience proposal for complex networks"</a>, by R. M. Casablanca, R. Criado, J. A. Mesa, M. Romance. <em>Chaos, Solitons and Fractals</em> Vol. 187 (2024), 115383.</li>
     <li><a href="https://doi.org/10.1063/5.0203824"> "Time-dependent Personalized PageRank for temporal networks: discrete and continuous scales"</a>, by D. Aleja, J. Flores, E. Primo, M. Romance. <em>Chaos</em> 34, 083145 (2024).</li> 

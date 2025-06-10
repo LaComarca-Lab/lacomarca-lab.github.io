@@ -1,0 +1,23 @@
+# Project student members listed below will appear on the /team page
+    
+- name: Lucía Salgado Barrio
+  role: Doble grado de Matemáticas e Informática
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Análisis de mercados de valores empleando redes complejas funcionales".
+
+    
+- name: Juan Antonio Gordillo Gayo
+  role: Doble grado de Matemáticas e Informática
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Introducción a las Redes Neuronales Gráficas: módulos y conceptos matemáticos".
+
+    
+- name: Sergio Salazar Cárdenas
+  role: Doble grado de Matemáticas e Informática
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Modelos matemáticos de propagación de malware y ciberepidemias, basados en análisis de redes complejas y ecuaciones diferenciales".
+    
+

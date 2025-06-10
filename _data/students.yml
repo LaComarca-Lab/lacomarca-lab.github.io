@@ -1,23 +1,29 @@
 # Project student members listed below will appear on the /team page
     
-- name: Lucía Salgado Barrio
-  role: Estudiante de TFG
+- name: Thatyana Alarza Souza
+  role: Doble grado de Matemáticas e Informática
   image: assets/theme/images/placeholder.png 
   description: >
-    Estudiante del doble grado de Matemáticas e Informática
+    Trabajo de Fin de Grado: "Clasificación de datos genómicos usando algoritmos de clustering".
 
     
-- name: Juan Antonio Gordillo Gayo
-  role: Estudiante de TFG
+- name: David Enrique Orna Alcobendas
+  role: Doble grado de Matemáticas e Informática
   image: assets/theme/images/placeholder.png 
   description: >
-    Estudiante del doble grado de Matemáticas e Informática
+    Trabajo de Fin de Grado: "Clasificación de datos genómicos usando detección de comunidades".
 
     
-- name: Sergio Salazar Cárdenas
-  role: Estudiante de TFG
+- name: Pedro Cristino Moreno
+  role: Doble grado de Matemáticas e Informática
   image: assets/theme/images/placeholder.png 
   description: >
-    Estudiante del doble grado de Matemáticas e Informática
+    Trabajo de Fin de Grado: "Axiomas de centralidad".
+    
+- name: Ángel Rodriguez Clemente
+  role: Doble grado de Matemáticas e Informática
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Dinámica no lineal aplicada a la predicción de ciberataques".
     
 

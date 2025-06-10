@@ -22,7 +22,7 @@
   role:  Codirector de Tecnología
   image: assets/theme/images/gonzalocontreras.png 
   description: >
-    Investigador predoctoral de la URJC
+    Investigador postdoctoral de la URJC
 
   orcid: 0000-0002-8118-6403
   github: goznalo-git
@@ -64,14 +64,14 @@
   orcid:  0000-0003-3474-6444
   email: danieljose.rodriguez@urjc.es
 
-- name: Guillermo Vera de Salas
+- name: Francisco Javier Marín Rodríguez
   role: Investigador
-  image: assets/theme/images/placeholder.png 
+  image: assets/theme/images/javiermarin.jpg 
   description: >
-    Profesor Ayudante Doctor de la URJC
+    Ayudante de Investigación de la URJC
 
-  orcid:  0000-0002-3517-7223
-  email: guillermo.vera@urjc.es
+  orcid:  0009-0009-1751-9443
+  email: javier.marin@urjc.es
 
 - name: Stefano Boccaletti
   role: Investigador
@@ -90,3 +90,12 @@
 
   orcid: 0000-0001-8849-0726
   email: alejandro.garciadelamo@urjc.es
+  
+- name: Julio Flores Álvarez
+  role: Investigador
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Profesor Titular de la URJC
+
+  orcid: 0000-0002-7161-3301
+  email: julio.flores@urjc.es

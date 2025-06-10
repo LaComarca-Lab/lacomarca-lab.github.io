@@ -1,5 +1,13 @@
 # Project collaborators members listed below will appear on the /team page
 
+- name: Guillermo Vera de Salas
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Profesor Ayudante Doctor de la URJC, especializado en álgebras no asociativas.
+
+  orcid:  0000-0002-3517-7223
+  email: guillermo.vera@urjc.es
+
 - name: Cristian Pérez Corral
   image: assets/theme/images/placeholder.png 
   description: >
@@ -19,6 +27,4 @@
   image: assets/theme/images/placeholder.png 
   description: >
     Estudiante de doctorado de la Fuzhou University (China), en periodo de estancia predoctoral en la URJC. 
-
-    
 
