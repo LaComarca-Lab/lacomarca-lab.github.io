@@ -11,11 +11,11 @@ Os damos la bienvenida a la web oficial de la I Edición del <b>Simposio de Inve
 
 Estamos muy content@s con el interés que ha suscitado la convocatoria. En particular nos alegra la diversidad de l@s participantes, objetivo primordial de este evento. Dejamos aquí un desglose por áreas
 
-![Image](/assets/theme/images/SINC/participacion_areas.png)
+![Image](assets/theme/images/SINC/participacion_areas.png)
 
 y un desglose por posiciones
 
-![Image](/assets/theme/images/SINC/participacion_etapas.png)
+![Image](assets/theme/images/SINC/participacion_etapas.png)
 
 
 
