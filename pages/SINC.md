@@ -27,11 +27,15 @@ Disclaimer: información sujeta a cambios de última hora
     
     Dónde: Salón de Grados del Departamental I
 
-    Cuándo: de 9:45 a 17:00, con una pausa para comer y dos pausas para café.
+    Cuándo: de 9:50 a 17:10, con una pausa para comer y dos pausas para café.
+
     
 - **Programa del evento**
 
-    TBA (el lunes 23 o martes 24 de junio esperamos tenerlo finalizado)
+    Podéis encontrar el programa en el siguiente enlace: <a href="assets/docs/SINCprogram.pdf" target="_blank">Haz click aquí </a>
+    <!-- <object data="assets/docs/SINCprogram.pdf" width="800" height="500" type='application/pdf'></object> -->
+    <!-- ![Doc](assets/docs/SINCprogram.pdf) -->
+
     
 - **Formato de las charlas**
     
@@ -45,9 +49,9 @@ Disclaimer: información sujeta a cambios de última hora
 
 ## Libro de abstracts
 
-Work in progress... (el lunes 23 o martes 24 de junio esperamos tenerlo finalizado)
+Hemos recopilado todos los abstracts recibidos en el siguiente documento: <a href="assets/docs/SINCabstracts.pdf" target="_blank">Haz click aquí </a>
 
 
 ## Otros
 
-Para más información, contactar a gonzalo.contreras(at)urjc.es
+Para más información, quejas o sugerencias, contactar a gonzalo.contreras(at)urjc.es
