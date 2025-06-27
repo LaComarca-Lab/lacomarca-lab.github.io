@@ -27,7 +27,7 @@ Disclaimer: información sujeta a cambios de última hora
     
     Dónde: Salón de Grados del Departamental I
 
-    Cuándo: de 9:50 a 17:10, con una pausa para comer y dos pausas para café.
+    Cuándo: de 9:50 a 17:10, con una pausa para comer y dos pausas para café. Por favor intentad ser puntuales.
 
     
 - **Programa del evento**
@@ -42,6 +42,8 @@ Disclaimer: información sujeta a cambios de última hora
     20 minutos (15 + 5 de preguntas). 
 
     Diapositivas en inglés.
+
+    Una primera diapositiva sobre vosotr@s y vuestra investigación.
 
     Contenido pedagógico, debido al caracter interdisciplinar del evento.
     
