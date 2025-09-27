@@ -4,16 +4,15 @@
   role: Director Científico
   image: assets/theme/images/miguelromance.png # Can be external link
   description: > 
-    Catedrático de la URJC
+    Catedrático
   orcid: 0000-0001-9259-9716
-  github: github_name
   email: miguel.romance@urjc.es
 
 - name: David González de la Aleja Gallego
   role:  Codirector de Tecnología
   image: assets/theme/images/davidaleja.jpg 
   description: >
-    Profesor Contratado Doctor de la URJC
+    Profesor Contratado Doctor
 
   orcid: 0000-0002-4477-1638
   email: david.aleja@urjc.es
@@ -22,7 +21,7 @@
   role:  Codirector de Tecnología
   image: assets/theme/images/gonzalocontreras.png 
   description: >
-    Investigador postdoctoral de la URJC
+    Profesor Ayudante Doctor
 
   orcid: 0000-0002-8118-6403
   github: goznalo-git
@@ -32,7 +31,7 @@
   role: Investigador
   image: assets/theme/images/reginocriado.png 
   description: >
-    Catedrático de la URJC
+    Catedrático
 
   orcid: 0000-0001-7954-6169
   email: regino.criado@urjc.es
@@ -41,7 +40,7 @@
   role: Investigadora
   image: assets/theme/images/karinalfaro.png 
   description: >
-    Investigadora Internacional Distinguida de la URJC
+    Investigadora Internacional Distinguida
 
   orcid: 0000-0003-3998-453X
   email: karin.alfaro@urjc.es
@@ -50,7 +49,7 @@
   role: Investigadora
   image: assets/theme/images/placeholder.png 
   description: >
-    Profesora Contratada Doctor de la URJC
+    Profesora Contratada Doctor
 
   orcid: 0000-0001-9979-5592
   email: eva.primo@urjc.es
@@ -59,7 +58,7 @@
   role: Investigador
   image: assets/theme/images/danielrodriguez.jpg
   description: >
-    Profesor Ayudante Doctor de la URJC
+    Profesor Ayudante Doctor
 
   orcid:  0000-0003-3474-6444
   email: danieljose.rodriguez@urjc.es
@@ -77,7 +76,7 @@
   role: Investigador
   image: assets/theme/images/placeholder.png 
   description: >
-    Investigador Internacional Distinguido de la URJC
+    Investigador Internacional Distinguido
 
   orcid: 0000-0002-5758-7012
   email: stefano.boccaletti@urjc.es
@@ -86,7 +85,7 @@
   role: Investigador
   image: assets/theme/images/placeholder.png 
   description: >
-    Profesor Titular de la URJC
+    Profesor Titular
 
   orcid: 0000-0001-8849-0726
   email: alejandro.garciadelamo@urjc.es
@@ -95,7 +94,16 @@
   role: Investigador
   image: assets/theme/images/placeholder.png 
   description: >
-    Profesor Titular de la URJC
+    Profesor Titular
 
   orcid: 0000-0002-7161-3301
   email: julio.flores@urjc.es
+  
+- name: Myriam Eugenia Nonaka
+  role: Investigador
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Investigadora Postdoctoral
+
+  orcid: 0000-0002-7161-3301
+  email: myriam.nonaka@urjc.es

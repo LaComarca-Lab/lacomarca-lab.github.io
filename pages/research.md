@@ -38,14 +38,19 @@ Síguenos para estar al tanto de nuestras novedades!
 
 
 <strong>Preprints</strong>
+<ol>
+    <li><a href="https://doi.org/10.48550/arXiv.2507.09319"> "Equitability and explosive synchronisation in multiplex and higher-order networks"</a>, by K. Kovalenko, G. Contreras-Aso, C. I. del Genio, S. Boccaletti, R. J. Sánchez-García. <em>Preprint available at arXiv:2507.09319</em> (2025).</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2507.18652"> "Fixed points of Personalized PageRank centrality: From irreducible to reducible networks"</a>, by D. Aleja, J. Flores, E. Primo, D. Rodríguez, M. Romance. <em>Preprint available at arXiv:2507.18652</em> (2025).</li>
+</ol>
+    
+<strong>2025</strong>
 
 <ol>
-    <li><a href="https://doi.org/10.48550/arXiv.2503.19927"> "Fully personalized PageRank and algebraic methods to distribute a random walker"</a>, by G. Contreras-Aso, R. Criado, M. Romance. <em>Preprint available at arXiv:2503.19927</em> (2025).</li>
-    <li><a href="https://doi.org/10.48550/arXiv:2502.14110"> "On the application of Visibility Graphs in the Spectral Domain for Speaker Recognition"</a>, by Hernan Bocaccio, Sergio Iglesias-Pérez, Miguel Romance, Regino Criado, Gabriel B. Mindlin. <em>Preprint available at arXiv:2502.14110</em> (2025).</li>
+    <li><a href="https://doi.org/10.1016/j.physd.2025.134868"> "On the application of Visibility Graphs in the Spectral Domain for Speaker Recognition"</a>, by Hernan Bocaccio, Sergio Iglesias-Pérez, Miguel Romance, Regino Criado, Gabriel B. Mindlin. <em>Physica D: Nonlinear Phenomena</em> Vol. 481 (2025), 134868.</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2503.19927"> "Scalar embedding of temporal network trajectories"</a>, by L. Lacasa, F. J. Marín-Rodríguez, N. Masuda, L. Arola-Fernández. <em>Chaos, Solitons & Fractals</em> Vol. 199, Part 1 (2025), 116599.</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2503.19927"> "Fully personalized PageRank and algebraic methods to distribute a random walker"</a>, by G. Contreras-Aso, R. Criado, M. Romance. <em>Computational and Applied Mathematics</em> Vol. 44, Issue 383 (2025).</li>
 </ol>
-
-
-
+    
 <strong>2024</strong>
 
 <ol>
@@ -65,8 +70,8 @@ Síguenos para estar al tanto de nuestras novedades!
     <li><a href="https://doi.org/10.1063/5.0156226"> "Can the PageRank centrality be manipulated to obtain any desired ranking?"</a>, by G. Contreras-Aso, R. Criado and M. Romance. <em>Chaos</em> 33, 083152 (2023).</li>
     <li><a href="https://doi.org/10.1103/PhysRevX.13.021032"> "Why are there six degrees of separation in a social network?"</a>, by I. Samoylenko, D. Aleja, E. Primo, K. Alfaro-Bittner, E. Vasilyeva, K. Kovalenko, D. Musatov, A.M. Raigorodskii, R. Criado, M. Romance, D. Papo, M. Perc, B. Barzel and S. Boccaletti. <em>Phys. Rev. X</em> 13, 021032 (2023).</li>
     <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/mma.9201"> "A new insight into linguistic pattern analysis based on multilayer hypergraphs for the automatic extraction of text summaries"</a>, by A. Criado-Alonso, D. Aleja, M. Romance, and R. Criado. <em>Math. Methods Appl. Sci.</em> 0170-4214 (2023),  128306.</li>
-    <li><a href="https://aip.scitation.org/doi/abs/10.1063/5.0124687"> "A comprehensive approach for discrete resilience of complex networks"</a>, by S. Iglesias-Perez, S. Moral-Rubio and R. Criado. <em>Chaos</em> 33, 013111 (2023),  128306.</li>
-    <li><a href="http://doi.org/10.1016/j.physa.2022.128306"> "Combining multiplex networks and time series: A new way to optimize real estate forecasting in New York using cab rides"</a>, by S. Iglesias-Perez, S. Moral-Rubio and R. Criado. <em>Physica A</em> 609 (1) (2023),  128306.</li>
+    <li><a href="https://aip.scitation.org/doi/abs/10.1063/5.0124687"> "A comprehensive approach for discrete resilience of complex networks"</a>, by S. Iglesias-Perez, S. Moral-Rubio and R. Criado. <em>Chaos</em> 33, 013111 (2023), 128306.</li>
+    <li><a href="http://doi.org/10.1016/j.physa.2022.128306"> "Combining multiplex networks and time series: A new way to optimize real estate forecasting in New York using cab rides"</a>, by S. Iglesias-Perez, S. Moral-Rubio and R. Criado. <em>Physica A</em> 609 (1) (2023), 128306.</li>
 </ol>   
 
 
