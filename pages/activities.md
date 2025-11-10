@@ -29,7 +29,7 @@ La lista está en continua rotación, y las siguientes fechas y ponentes son
     <li><strong>Miguel Romance</strong> (URJC), <em> (TBA, 2026)</em>.</li>
 </ol>
     
-    
+Todos los seminarios son en el edificio Departamental II, Campus de Móstoles, URJC. Generalmente en la sala 003.     
 
 
 ### Actividades pasadas:
