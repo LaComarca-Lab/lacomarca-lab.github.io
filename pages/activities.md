@@ -16,10 +16,10 @@ Cada dos semanas (aproximadamente) un integrante del Laboratorio da una breve "c
 La lista está en continua rotación, y las siguientes fechas y ponentes son
 
 <ol>
-    <li><strong>René Rojas</strong> (Pontificia Universidad Católica de Valparaíso), <em>13/11/2025</em>.</li>
-    <li><strong>Eva Primo</strong> (URJC), <em>27/11/2025</em>.</li>
-    <li><strong>F. Javier Marín-Rodríguez</strong>, <strong>Myriam Nonaka</strong> (URJC), <em>11/12/2025</em>.</li>
-    <li><strong>Regino Criado</strong> (URJC), <em>15/01/2026</em>.</li>
+    <li><strong>René Rojas</strong> (Pontificia Universidad Católica de Valparaíso), <em>12:00, 13/11/2025</em>.</li>
+    <li><strong>Eva Primo</strong> (URJC), <em>12:00, 27/11/2025</em>.</li>
+    <li><strong>F. Javier Marín-Rodríguez</strong>, <strong>Myriam Nonaka</strong> (URJC), <em>12:00, 11/12/2025</em>.</li>
+    <li><strong>Regino Criado</strong> (URJC), <em>12:00, 15/01/2026</em>.</li>
     <li><strong>Jorge Tredicce</strong> (URJC, Université de Nice Sophia Antipolis), <em> (TBA, 2026)</em>.</li>
     <li><strong>David Aleja</strong> (URJC), <em> (TBA, 2026)</em>.</li>
     <li><strong>Gabriel Mindlin</strong> (Universidad de Buenos Aires), <em> (TBA, 2026)</em>.</li>
@@ -29,7 +29,7 @@ La lista está en continua rotación, y las siguientes fechas y ponentes son
     <li><strong>Miguel Romance</strong> (URJC), <em> (TBA, 2026)</em>.</li>
 </ol>
     
-Todos los seminarios son en el edificio Departamental II, Campus de Móstoles, URJC. Generalmente en la sala 003.     
+Todos los seminarios son en el edificio Departamental II, Campus de Móstoles, URJC. Generalmente en la sala 004.     
 
 
 ### Actividades pasadas:
