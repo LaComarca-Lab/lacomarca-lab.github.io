@@ -17,7 +17,7 @@ La lista está en continua rotación, y las siguientes fechas y ponentes son
 
 <ol>
     <li><strong>René Rojas</strong> (Pontificia Universidad Católica de Valparaíso), <em>12:00, 13/11/2025</em>.</li>
-    <li><strong>------</strong> (Huelga en defensa de la Universitaria Pública) <em> 12:00, 27/11/2025 </em>.</li>
+    <li><strong>------</strong> (Huelga en defensa de la Universidad Pública) <em> 12:00, 27/11/2025 </em>.</li>
     <li><strong>F. Javier Marín-Rodríguez</strong>, <strong>Myriam Nonaka</strong> (URJC), <em>12:00, 11/12/2025</em>.</li>
     <li><strong>Eva Primo</strong> (URJC), <em>12:00, 15/01/2026</em>.</li>
     <li><strong>Regino Criado</strong> (URJC), <em> (TBA, 2026)</em>.</li>
