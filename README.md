@@ -22,3 +22,7 @@ cd lacomarca-lab.github.io
 
 bundle install
 ```
+
+## Usage
+
+Run `bundle exec jekyll serve` to start a local version of the website at `http://127.0.0.1:4000/`. Modify whichever files needed, and upon saving them, it will automatically regenerate the webpage after a short time.

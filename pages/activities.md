@@ -19,18 +19,19 @@ La lista está en continua rotación, y las siguientes fechas y ponentes son
     <li><strong>René Rojas</strong> (Pontificia Universidad Católica de Valparaíso), <em>12:00, 13/11/2025</em>.</li>
     <li><strong>------</strong> (Huelga en defensa de la Universidad Pública) <em> 12:00, 27/11/2025 </em>.</li>
     <li><strong>F. Javier Marín-Rodríguez</strong>, <strong>Myriam Nonaka</strong> (URJC), <em>12:00, 11/12/2025</em>.</li>
-    <li><strong>Eva Primo</strong> (URJC), <em>12:00, 15/01/2026</em>.</li>
+    <li><strong>Jorge Tredicce</strong> (URJC, Université de Nice Sophia Antipolis), <em> 09:15, 29/01/2026</em>.</li>
+    <li><strong>Jorge Tredicce</strong> (URJC, Université de Nice Sophia Antipolis), <em> 09:15, 05/02/2026</em>.</li>
+    <li><strong>Gonzalo Contreras-Aso</strong> (UC3M), <em>09:15, 19/02/2026</em>.</li>
+    <li><strong>Julio Flores</strong> (URJC), <em>09:15, 05/03/2026</em>.</li>
+    <li><strong>Daniel J. Rodríguez</strong> (URJC), <em> 09:15, 19/03/2026</em>.</li>
+    <li><strong>David Aleja</strong> (URJC), <em> 09:15, 02/04/2026</em>.</li>
     <li><strong>Regino Criado</strong> (URJC), <em> (TBA, 2026)</em>.</li>
-    <li><strong>Jorge Tredicce</strong> (URJC, Université de Nice Sophia Antipolis), <em> (TBA, 2026)</em>.</li>
-    <li><strong>David Aleja</strong> (URJC), <em> (TBA, 2026)</em>.</li>
     <li><strong>Gabriel Mindlin</strong> (Universidad de Buenos Aires), <em> (TBA, 2026)</em>.</li>
-    <li><strong>Julio Flores</strong> (URJC), <em> (TBA, 2026)</em>.</li>
-    <li><strong>Daniel J. Rodríguez</strong> (URJC), <em> (TBA, 2026)</em>.</li>
-    <li><strong>Gonzalo Contreras-Aso</strong> (UC3M), <em>12:00, 27/11/2025</em>.</li>
     <li><strong>Miguel Romance</strong> (URJC), <em> (TBA, 2026)</em>.</li>
+    <li><strong>Eva Primo</strong> (URJC), <em> (TBA, 2026)</em>.</li>
 </ol>
     
-Todos los seminarios son en el edificio Departamental II, Campus de Móstoles, URJC. Generalmente en la sala 004.     
+Todos los seminarios son en el edificio Departamental II, Campus de Móstoles, URJC. Generalmente en la sala 004. Recomendamos igualmente contactar a alguno de los miembros para confirmar la fecha y lugar de algún seminario que pueda resultar de interés.
 
 
 ### Actividades pasadas:
