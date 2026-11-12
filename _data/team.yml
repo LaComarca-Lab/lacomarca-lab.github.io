@@ -12,7 +12,7 @@
   role:  Codirector de Tecnología
   image: assets/theme/images/davidaleja.jpg 
   description: >
-    Profesor Contratado Doctor
+    Profesor Titular
 
   orcid: 0000-0002-4477-1638
   email: david.aleja@urjc.es
@@ -21,7 +21,7 @@
   role:  Codirector de Tecnología
   image: assets/theme/images/gonzalocontreras.png 
   description: >
-    Profesor Ayudante Doctor
+    Profesor Ayudante Doctor (UC3M)
 
   orcid: 0000-0002-8118-6403
   github: goznalo-git
@@ -40,7 +40,7 @@
   role: Investigadora
   image: assets/theme/images/karinalfaro.png 
   description: >
-    Investigadora Internacional Distinguida
+    Profesora Titular
 
   orcid: 0000-0003-3998-453X
   email: karin.alfaro@urjc.es
