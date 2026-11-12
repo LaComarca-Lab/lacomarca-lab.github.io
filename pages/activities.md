@@ -37,6 +37,7 @@ Todos los seminarios son en el edificio Departamental II, Campus de Móstoles, U
 ### Actividades pasadas:
 
 <ul>
+    <li><strong>Congreso SINC</strong>, <em>Julio 2026</em>. El libro de abstracts <a href="assets/docs/SINCprogram2026.pdf" target="_blank">se puede consultar aquí</a></li>
     <li><strong>Congreso SINC</strong>, <em>Julio 2025</em>. El libro de abstracts <a href="assets/docs/SINCprogram.pdf" target="_blank">se puede consultar aquí</a></li>
     <li><strong>Sesión de presentación de TFGs 2024/2025</strong>, <em>Octubre 2024</em>.</li>
 </ul>
