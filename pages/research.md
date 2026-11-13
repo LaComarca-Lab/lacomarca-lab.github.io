@@ -38,13 +38,13 @@ Síguenos para estar al tanto de nuestras novedades!
 
 <strong>Preprints</strong>
 <ol>
-    <li><a href="https://doi.org/10.48550/arXiv.2607.17953"> "Dynamical system for the PageRank with time-dependent memory"</a>, by J. Flores, E. Primo, D. Rodríguez, M. Romance. <em> Preprint available at arXiv:2607.17953</em> (2026).</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2607.17953"> "Dynamical system for the PageRank with time-dependent memory" </a>, by J. Flores, E. Primo, D. Rodríguez, M. Romance.
+        <em>Preprint available at arXiv:2607.17953</em> (2026).</li>
 </ol>
-        
-<strong>2026</strong>
 
+<strong>2026</strong>
 <ol>
-    <li><a href="https://doi.org/10.1038/s42005-026-02543-5"> "Equitability and explosive synchronisation in multiplex and higher-order networks"</a>, by K. Kovalenko, G. Contreras-Aso, C. I. del Genio, S. Boccaletti, R. J. Sánchez-García. <em>Communications Physics </em> Vol. 9, 117 (2026).</li>
+    <li><a href="https://doi.org/10.1038/s42005-026-02543-5"> "Equitability and explosive synchronisation in multiplex and higher-order networks"</a>, by K. Kovalenko, G. Contreras-Aso, C. I. del Genio, S. Boccaletti, R. J. Sánchez-García. <em>Communications Physics</em> Vol. 9, 117 (2026).</li>
 </ol>
 
 <strong>2025</strong>
