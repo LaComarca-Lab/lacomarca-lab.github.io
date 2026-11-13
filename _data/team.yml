@@ -4,7 +4,7 @@
   role: Director Científico
   image: assets/theme/images/miguelromance.png # Can be external link
   description: > 
-    Catedrático
+    Catedrático (URJC)
   orcid: 0000-0001-9259-9716
   email: miguel.romance@urjc.es
 
@@ -12,7 +12,7 @@
   role:  Codirector de Tecnología
   image: assets/theme/images/davidaleja.jpg 
   description: >
-    Profesor Titular
+    Profesor Titular (URJC)
 
   orcid: 0000-0002-4477-1638
   email: david.aleja@urjc.es
@@ -31,7 +31,7 @@
   role: Investigador
   image: assets/theme/images/reginocriado.png 
   description: >
-    Catedrático
+    Catedrático (URJC)
 
   orcid: 0000-0001-7954-6169
   email: regino.criado@urjc.es
@@ -40,7 +40,7 @@
   role: Investigadora
   image: assets/theme/images/karinalfaro.png 
   description: >
-    Profesora Titular
+    Profesora Titular (URJC)
 
   orcid: 0000-0003-3998-453X
   email: karin.alfaro@urjc.es
@@ -49,7 +49,7 @@
   role: Investigadora
   image: assets/theme/images/placeholder.png 
   description: >
-    Profesora Contratada Doctor
+    Profesora Contratada Doctor (URJC)
 
   orcid: 0000-0001-9979-5592
   email: eva.primo@urjc.es
@@ -58,7 +58,7 @@
   role: Investigador
   image: assets/theme/images/danielrodriguez.jpg
   description: >
-    Profesor Ayudante Doctor
+    Profesor Ayudante Doctor (URJC)
 
   orcid:  0000-0003-3474-6444
   email: danieljose.rodriguez@urjc.es
@@ -85,7 +85,7 @@
   role: Investigador
   image: assets/theme/images/placeholder.png 
   description: >
-    Profesor Titular
+    Profesor Titular (URJC)
 
   orcid: 0000-0001-8849-0726
   email: alejandro.garciadelamo@urjc.es
@@ -94,7 +94,7 @@
   role: Investigador
   image: assets/theme/images/placeholder.png 
   description: >
-    Profesor Titular
+    Profesor Titular (URJC)
 
   orcid: 0000-0002-7161-3301
   email: julio.flores@urjc.es
