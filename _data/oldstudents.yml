@@ -1,5 +1,13 @@
 # Project student members listed below will appear on the /team page
     
+- name: Fernando Meca Hernández
+  role: Doble grado de Matemáticas e Informática 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Axiomas de centralidad".
+    Curso 2025-26.
+
+
 - name: Thatyana Alarza Souza
   role: Doble grado de Matemáticas e Informática
   image: assets/theme/images/placeholder.png 
@@ -15,10 +23,11 @@
 
     
 - name: Pedro Cristino Moreno
-  role: Doble grado de Matemáticas e Informática
+  role: Doble grado de Matemáticas e Informática 
   image: assets/theme/images/placeholder.png 
   description: >
     Trabajo de Fin de Grado: "Axiomas de centralidad".
+    Curso 2024-25.
 
 
 - name: Lucía Salgado Barrio
