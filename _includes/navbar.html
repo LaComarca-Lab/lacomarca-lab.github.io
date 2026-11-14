@@ -17,8 +17,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbar-menu">
         <ul class="navbar-nav ms-auto">
-          {% for item in site.data.navigation %}
-            {% if item.menu %}
+      {% for item in nav_items %}
+          {% if item.menu %}
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
                   {{ item.text }}
