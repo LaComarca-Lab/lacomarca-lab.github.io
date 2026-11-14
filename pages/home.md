@@ -1,5 +1,3 @@
-lang: es
-translation_url: /en/
 ---
 layout: home
 title: Laboratorio de Computación Matemática en Redes Complejas y Aplicaciones
