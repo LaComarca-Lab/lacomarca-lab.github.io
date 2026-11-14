@@ -1,4 +1,12 @@
 # Project collaborators members listed below will appear on the /team page
+- name: Myriam Eugenia Nonaka
+  role: Investigador
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Investigadora Postdoctoral
+
+  orcid: 0000-0002-7161-3301
+  email: myriam.nonaka@urjc.es
 
 - name: Stefano Boccaletti
   role: Investigador
