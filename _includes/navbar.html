@@ -6,6 +6,11 @@
       {% endif %}
       {{ site.title }}
     </a>
+    {% assign nav_items = site.data.navigation %}
+
+{% if page.lang == 'en' %}
+  {% assign nav_items = site.data.navigation_en %}
+{% endif %}
     {% if site.data.navigation %}
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu">
         Menu <i class="fas fa-bars"></i>
