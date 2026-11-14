@@ -36,6 +36,32 @@
               </li>
             {% endif %}
           {% endfor %}
+{% assign lang = page.lang | default: 'es' %}
+
+<li class="nav-item d-flex align-items-center ms-lg-2">
+
+  <!-- Español -->
+  <a class="nav-link px-2{% if lang == 'es' %} active{% endif %}"
+     href="{% if lang == 'en' %}{{ page.translation_url | default: '/' | relative_url }}{% else %}{{ page.url | relative_url }}{% endif %}"
+     title="Español"
+     aria-label="Cambiar a español"
+     hreflang="es">
+    <img src="https://flagcdn.com/24x18/es.png"
+         width="24" height="18" alt="Español">
+  </a>
+
+  <!-- Inglés -->
+  <a class="nav-link px-2{% if lang == 'en' %} active{% endif %}"
+     href="{% if lang == 'en' %}{{ page.url | relative_url }}{% else %}{{ page.translation_url | default: '/en/' | relative_url }}{% endif %}"
+     title="English"
+     aria-label="Switch to English"
+     hreflang="en">
+    <img src="https://flagcdn.com/24x18/gb.png"
+         width="24" height="18" alt="English">
+  </a>
+
+</li>
+          
         </ul>
       </div>
     {% endif %}
