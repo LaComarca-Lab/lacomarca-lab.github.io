@@ -71,16 +71,7 @@
 
   orcid:  0009-0009-1751-9443
   email: javier.marin@urjc.es
-
-- name: Stefano Boccaletti
-  role: Investigador
-  image: assets/theme/images/placeholder.png 
-  description: >
-    Investigador Internacional Distinguido
-
-  orcid: 0000-0002-5758-7012
-  email: stefano.boccaletti@urjc.es
-    
+   
 - name: Alejandro J. García del Amo
   role: Investigador
   image: assets/theme/images/placeholder.png 
