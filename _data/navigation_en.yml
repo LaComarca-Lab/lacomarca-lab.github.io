@@ -1,1 +1,75 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="{{'/' | relative_url }}">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" class="me-2">
+      {% endif %}
+      {{ site.title }}
+    </a>
+    {% assign nav_items = site.data.navigation %}
+
+{% if page.lang == 'en' %}
+  {% assign nav_items = site.data.navigation_en %}
+{% endif %}
+    {% if site.data.navigation %}
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu">
+        Menu <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="navbar-nav ms-auto">
+      {% for item in nav_items %}
+          {% if item.menu %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                  {{ item.text }}
+                </a>
+                <div class="dropdown-menu">
+                  {% for subitem in item.menu %}
+                    {% if subitem.href %}
+                      <a class="dropdown-item{% if subitem.href == page.url %} active{% endif %}" href="{{ subitem.href | relative_url }}"{% if subitem.new_window %} target="_blank"{% endif %}>{{ subitem.text }}</a>
+                    {% elsif subitem.text contains '---' %}
+                      <div class="dropdown-divider"></div>
+                    {% else %}
+                      <h6 class="dropdown-header">{{ subitem.text }}</h6>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+              </li>
+            {% else %}
+              <li class="navbar-item">
+                <a class="nav-link{% if item.href == page.url %} active{% endif %}" href="{{ item.href | relative_url }}"{% if item.new_window %} target="_blank"{% endif %}>{{ item.text }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+{% assign lang = page.lang | default: 'es' %}
+
+<li class="nav-item d-flex align-items-center ms-lg-2">
+
+  <!-- Español -->
+  <a class="nav-link px-2{% if lang == 'es' %} active{% endif %}"
+     href="{% if lang == 'en' %}{{ page.translation_url | default: '/' | relative_url }}{% else %}{{ page.url | relative_url }}{% endif %}"
+     title="Español"
+     aria-label="Cambiar a español"
+     hreflang="es">
+    <img src="https://flagcdn.com/24x18/es.png"
+         width="24" height="18" alt="Español">
+  </a>
+
+  <!-- Inglés -->
+  <a class="nav-link px-2{% if lang == 'en' %} active{% endif %}"
+     href="{% if lang == 'en' %}{{ page.url | relative_url }}{% else %}{{ page.translation_url | default: '/en/' | relative_url }}{% endif %}"
+     title="English"
+     aria-label="Switch to English"
+     hreflang="en">
+    <img src="https://flagcdn.com/24x18/gb.png"
+         width="24" height="18" alt="English">
+  </a>
+
+</li>
+          
+        </ul>
+      </div>
+    {% endif %}
+  </div>
+</nav>
 
