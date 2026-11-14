@@ -1,5 +1,14 @@
 # Project collaborators members listed below will appear on the /team page
 
+- name: Stefano Boccaletti
+  role: Investigador
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Investigador Internacional Distinguido
+
+  orcid: 0000-0002-5758-7012
+  email: stefano.boccaletti@urjc.es
+
 - name: Guillermo Vera de Salas
   image: assets/theme/images/placeholder.png 
   description: >
