@@ -1,8 +1,10 @@
 ---
+lang: en
 title: About
 description: Quiénes somos y qué hacemos.
 background: assets/theme/backgrounds/network-blue.jpg
-permalink: /about/
+permalink: /about-en/
+translation_url: /about/
 ---
 
 The Laboratory of Mathematical Computing in Complex Networks and Applications is part of the Laboratory Network of Rey Juan Carlos University (REDLABU). It was established as a multidisciplinary research environment aimed at providing scientific support to both the university community and society at large. Its mission is to facilitate the transfer of scientific knowledge by applying the latest mathematical tools and advances in complex network analysis to real-world problems across a wide range of disciplines, including social network analysis, biological systems, cybersecurity, artificial intelligence, brain networks, and biomedical systems, among many others.
