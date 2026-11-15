@@ -4,39 +4,37 @@ lang: en
 title: Investigación
 description: Líneas científicas y publicaciones
 background: assets/theme/backgrounds/research_glass.jpg
-permalink: /research/
----
+permalink: /en/
+translation_url: /research
 
 
 
-En el Laboratorio abarcamos un amplio espectro de conocimiento científico, incluyendo pero no limitado a los siguientes puntos.
+Our Laboratory covers a broad range of scientific research areas, including, but not limited to, the following:
 
-- Fundamentación matemática de las redes complejas
-    - Redes estándar (monocapa, interacciones a pares).
-    - Redes multiplex y multicapa.
-    - Redes de orden superior (simpliciales o hipergrafos).
+- Mathematical foundations of complex networks
+        - Standard networks (single-layer networks with pairwise interactions).
+        - Multiplex and multilayer networks.
+        - Higher-order networks (simplicial complexes and hypergraphs).
 
-- Centralidades espectrales en redes complejas
-    - Eigenvector, PageRank.
-    - Non-backtracking.
-    - Control de centralidad.
+- Spectral centralities in complex networks
+        - Eigenvector centrality and PageRank.
+        - Non-backtracking centrality.
+        - Centrality control.
 
-- Dinámica en redes
-    - Fenómenos no lineales y caos.
-    - Sincronización (osciladores caóticos o de fase).
-    - Teoría de juegos.
+- Dynamics on networks
+         -Nonlinear phenomena and chaos.
+         -Synchronization (chaotic and phase oscillators).
+        - Game theory.
 
-- Machine learning con redes
-    - Redes funcionales.
-    - Redes parenclíticas.
-    - Graph Neural Networks.
-    - Series temporales (visibility graph).
+- Machine learning on networks
+        - Functional networks.
+        - Parenclitic networks.
+        - Graph Neural Networks (GNNs).
+        - Time series analysis (visibility graphs).
 
-Síguenos para estar al tanto de nuestras novedades!
+Follow us to stay up to date with our latest news and developments!
 
-
-
-### Publicaciones recientes:
+### Recent Publications:
 
 <strong>Preprints</strong>
 <ol>
