@@ -5,7 +5,7 @@ description: Research Areas and Publications
 background: assets/theme/backgrounds/research_glass.jpg
 permalink: /research-en/
 translation_url: research
-----
+---
 
 Our Laboratory covers a broad range of scientific research areas, including, but not limited to, the following:
 
