@@ -2,14 +2,24 @@
 layout: default
 description: Template for team page
 ---
+{% assign team_members = site.data.team %}
+
+{% if page.lang == 'en' %}
+  {% assign team_members = site.data['team-en'] %}
+{% endif %}
 
 {{ content }}
 <hr />
 
+<h3>
+  {% if page.lang == 'en' %}
+    Research Team
+  {% else %}
+    Equipo investigador
+  {% endif %}
+</h3>
 
-<h3>Equipo investigador</h3>
-
-{% for member in site.data.team %}
+{% for member in team_members %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
       {% if member.image %}
