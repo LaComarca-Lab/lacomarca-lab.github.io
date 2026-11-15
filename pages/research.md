@@ -9,22 +9,22 @@ permalink: /research/
 
 En el Laboratorio abarcamos un amplio espectro de conocimiento científico, incluyendo pero no limitado a los siguientes puntos.
 
-- Fundamentación matemática de las redes complejas
+- **Fundamentación matemática de las redes complejas**
     - Redes estándar (monocapa, interacciones a pares).
     - Redes multiplex y multicapa.
     - Redes de orden superior (simpliciales o hipergrafos).
 
-- Centralidades espectrales en redes complejas
+- **Centralidades espectrales en redes complejas**
     - Eigenvector, PageRank.
     - Non-backtracking.
     - Control de centralidad.
 
-- Dinámica en redes
-    - Fenómenos no lineales y caos.
+- **Dinámica en redes
+    - Fenómenos no lineales y caos**
     - Sincronización (osciladores caóticos o de fase).
     - Teoría de juegos.
 
-- Machine learning con redes
+- **Machine learning con redes**
     - Redes funcionales.
     - Redes parenclíticas.
     - Graph Neural Networks.
