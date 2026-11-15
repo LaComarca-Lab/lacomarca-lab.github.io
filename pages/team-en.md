@@ -8,6 +8,6 @@ permalink: /team-en/
 translation_url: /team/
 ---
 
-<!--On this page you can list team members by defining them in [`_data/team-en.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/team-en.yml).-->
+<!--On this page you can list team members by defining them in [`_data/team.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/team.yml).-->
 
 The team of the Laboratory of Mathematical Computing in Complex Networks and Applications consists of the following members:
