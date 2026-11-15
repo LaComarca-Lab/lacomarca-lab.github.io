@@ -73,8 +73,13 @@ description: Template for team page
 
 <hr />
 
-<h3>Colaboradores</h3>
-
+<h3>
+  {% if page.lang == 'en' %}
+    Collaborators
+  {% else %}
+    Colaboradores
+  {% endif %}
+</h3>
 {% for member in site.data.collaborators %}
   <div class="d-flex team-member">
     <div class="flex-shrink-0 me-3">
@@ -128,8 +133,13 @@ description: Template for team page
 {% endfor %}
 
 
-<h3>Estudiantes actuales</h3>
-
+<h3>
+  {% if page.lang == 'en' %}
+    Current Students
+  {% else %}
+    Estudiantes actuales
+  {% endif %}
+</h3>
 
 {% for member in site.data.students %}
   <div class="d-flex team-member">
@@ -178,10 +188,13 @@ description: Template for team page
   </div>
 {% endfor %}
 
-
-
-<h3>Antiguos estudiantes</h3>
-
+<h3>
+  {% if page.lang == 'en' %}
+    Former Students
+  {% else %}
+    Antiguos estudiantes
+  {% endif %}
+</h3>
 
 {% for member in site.data.oldstudents %}
   <div class="d-flex team-member">
