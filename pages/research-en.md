@@ -1,8 +1,7 @@
 ---
-layout: home
 lang: en
-title: Investigación
-description: Líneas científicas y publicaciones
+title: Research
+description: Research Areas and Publications
 background: assets/theme/backgrounds/research_glass.jpg
 permalink: /en/
 translation_url: /research
