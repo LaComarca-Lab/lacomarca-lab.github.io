@@ -1,4 +1,6 @@
 ---
+layout: home
+lang: en
 title: Investigación
 description: Líneas científicas y publicaciones
 background: assets/theme/backgrounds/research_glass.jpg
