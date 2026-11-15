@@ -20,7 +20,7 @@ Our Laboratory covers a broad range of scientific research areas, including, but
     - Non-backtracking centrality.
     - Centrality control.
 
-- **Dynamics on networks**
+- Dynamics on networks
     - Nonlinear phenomena and chaos.
     - Synchronization (chaotic and phase oscillators).
     - Game theory.
