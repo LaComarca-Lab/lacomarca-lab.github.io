@@ -3,21 +3,21 @@
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: About the Laboratory
-  href: /about/
+  href: /about-en/
 - text: Organization
-  href: /team/
+  href: /team-en/
 - text: Research
-  href: /research/
+  href: /research-en/
 - text: Activities
-  href: /activities/
+  href: /activities-en/
 - text: Blog
-  href: /blog/
+  href: /blog-en/
 - text: Documentation
   menu: # Dropdown menu (one level deep only)
   - text: Services
-    href: /servicios/
+    href: /servicios-en/
   - text: Contact
-    href: /contacto/
+    href: /contacto-en/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "" # Title for block of menu items
   - text: Link to our GitHub
