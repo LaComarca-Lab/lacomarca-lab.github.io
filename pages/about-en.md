@@ -1,7 +1,20 @@
-
+---
+title: About
+description: Quiénes somos y qué hacemos.
+background: assets/theme/backgrounds/network-blue.jpg
+permalink: /about/
+---
 
 The Laboratory of Mathematical Computing in Complex Networks and Applications is part of the Laboratory Network of Rey Juan Carlos University (REDLABU). It was established as a multidisciplinary research environment aimed at providing scientific support to both the university community and society at large. Its mission is to facilitate the transfer of scientific knowledge by applying the latest mathematical tools and advances in complex network analysis to real-world problems across a wide range of disciplines, including social network analysis, biological systems, cybersecurity, artificial intelligence, brain networks, and biomedical systems, among many others.
 
 The Laboratory's team brings extensive multidisciplinary scientific expertise and a strong track record in knowledge transfer to industry, supported by more than 20 years of experience in institutionally funded applied mathematics research projects and research, development, and innovation (R&D&I) contracts with leading national and international companies. This expertise enables the Laboratory to offer advanced mathematical modelling services based on complex networks, as well as graph-based computation and computational methods on graphs, to address real-world challenges. These include the identification and analysis of influential individuals in social networks, the assessment of resilience and vulnerability in communication networks, fraud detection and intentional risk assessment in cybersecurity, the development of diagnostic tools and mathematical models for biomedical systems, and the design of data science and artificial intelligence solutions involving graphs and higher-order complex networks, among many other applications.
 
 The Laboratory's activities focus on developing new mathematical tools and advancing scientific research through mathematical modelling, while promoting the transfer of knowledge to society and industry. These activities include scientific training, outreach and dissemination, the training of early-career researchers through the supervision of Bachelor's and Master's theses and doctoral research, as well as basic and applied research. Through its dynamic, multidisciplinary team of researchers, the Laboratory combines fundamental scientific research with advanced mathematical computing to foster innovation and facilitate the transfer of scientific knowledge to society and the industrial and productive sectors.
+
+
+<figure>
+  <img src="/assets/theme/images/fotogrupo.png"
+       alt="Foto de grupo LACOMARCA"
+       width="100%" max-width="100px" height="auto">
+  <figcaption><center>A photo with some members and collaborators 2021</center></figcaption>
+</figure>
