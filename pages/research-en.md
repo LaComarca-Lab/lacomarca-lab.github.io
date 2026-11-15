@@ -1,34 +1,35 @@
 ---
+layout: default
 lang: en
 title: Research
 description: Research Areas and Publications
-background: assets/theme/backgrounds/research_glass.jpg
+background: /assets/theme/backgrounds/research_glass.jpg
 permalink: /research-en/
-translation_url: research
+translation_url: /research/
 ---
 
 Our Laboratory covers a broad range of scientific research areas, including, but not limited to, the following:
 
-- Mathematical foundations of complex networks
-        - Standard networks (single-layer networks with pairwise interactions).
-        - Multiplex and multilayer networks.
-        - Higher-order networks (simplicial complexes and hypergraphs).
+- **Mathematical foundations of complex networks**
+    - Standard networks (single-layer networks with pairwise interactions).
+    - Multiplex and multilayer networks.
+    - Higher-order networks (simplicial complexes and hypergraphs).
 
-- Spectral centralities in complex networks
-        - Eigenvector centrality and PageRank.
-        - Non-backtracking centrality.
-        - Centrality control.
+- **Spectral centralities in complex networks**
+    - Eigenvector centrality and PageRank.
+    - Non-backtracking centrality.
+    - Centrality control.
 
-- Dynamics on networks
-         -Nonlinear phenomena and chaos.
-         -Synchronization (chaotic and phase oscillators).
-        - Game theory.
+- **Dynamics on networks**
+    - Nonlinear phenomena and chaos.
+    - Synchronization (chaotic and phase oscillators).
+    - Game theory.
 
-- Machine learning on networks
-        - Functional networks.
-        - Parenclitic networks.
-        - Graph Neural Networks (GNNs).
-        - Time series analysis (visibility graphs).
+- **Machine learning on networks**
+    - Functional networks.
+    - Parenclitic networks.
+    - Graph Neural Networks (GNNs).
+    - Time series analysis (visibility graphs).
 
 Follow us to stay up to date with our latest news and developments!
 
