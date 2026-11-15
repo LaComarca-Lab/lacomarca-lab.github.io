@@ -1,7 +1,7 @@
 ---
 lang: en
 title: About
-description: Quiénes somos y qué hacemos.
+description: Who we are and what we do.
 background: assets/theme/backgrounds/network-blue.jpg
 permalink: /about-en/
 translation_url: /about/
