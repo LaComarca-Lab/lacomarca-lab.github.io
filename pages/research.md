@@ -40,6 +40,8 @@ Síguenos para estar al tanto de nuestras novedades!
 <ol>
     <li><a href="https://doi.org/10.48550/arXiv.2607.17953"> "Dynamical system for the PageRank with time-dependent memory" </a>, by J. Flores, E. Primo, D. Rodríguez, M. Romance.
         <em>Preprint available at arXiv:2607.17953</em> (2026).</li>
+    <li><a href="https://doi.org/10.48550/arXiv.2512.00437"> "Concentration Within Distribution: Unmasking Bitcoin's Structural Centralization Through Network Science" </a>, by Myriam Nonaka, F. Javier Marín-Rodríguez, Alexander Jiricny, Miguel Romance, Regino Criado, Sergio Iglesias-Pérez, Alberto Partida.
+        <em>Preprint available at arXiv:2512.00437</em> (2025).</li>
 </ol>
 
 <strong>2026</strong>
