@@ -87,7 +87,7 @@
 
 
 - name: NOMBRE
-  role: Doble grado de Matemáticas e Informática 
+  role: Grado de Matemáticas 
   image: assets/theme/images/placeholder.png 
   description: >
     Trabajo de Fin de Grado: "Análisis de grafos con relaciones de orden superior".
