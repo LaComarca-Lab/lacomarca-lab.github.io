@@ -19,7 +19,7 @@ En el Laboratorio abarcamos un amplio espectro de conocimiento científico, incl
     - Non-backtracking.
     - Control de centralidad.
 
-- **Dinámica en redes
+- **Dinámica en redes**
     - Fenómenos no lineales y caos**
     - Sincronización (osciladores caóticos o de fase).
     - Teoría de juegos.
