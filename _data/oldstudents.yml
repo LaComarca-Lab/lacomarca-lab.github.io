@@ -8,7 +8,7 @@
     Curso 2025-26.
 
 
-    - name: NOMBRE
+- name: NOMBRE
   role: Grado de Matemáticas  
   image: assets/theme/images/placeholder.png 
   description: >
@@ -16,7 +16,7 @@
     Curso 2025-26.
 
 
-    - name: NOMBRE
+- name: NOMBRE
   role: Grado de Matemáticas 
   image: assets/theme/images/placeholder.png 
   description: >
@@ -24,7 +24,7 @@
     Curso 2025-26.
 
 
-      - name: NOMBRE
+- name: NOMBRE
   role: Grado de Matemáticas 
   image: assets/theme/images/placeholder.png 
   description: >
@@ -71,7 +71,7 @@
 
     
 - name: Esther Teso Cuesta
-  role:Doble Grado de Matemáticas e Ingeniería de Software
+  role: Doble Grado de Matemáticas e Ingeniería de Software
   image: assets/theme/images/placeholder.png 
   description: >
     Trabajo de Fin de Grado: "El teorema de factorización de Weierstrass: construcción de funciones holomorfas con ceros prefijados".
