@@ -52,6 +52,7 @@ Síguenos para estar al tanto de nuestras novedades!
     <li><a href="https://doi.org/10.1038/s42005-026-02543-5"> "Equitability and explosive synchronisation in multiplex and higher-order networks"</a>, by K. Kovalenko, G. Contreras-Aso, C. I. del Genio, S. Boccaletti, R. J. Sánchez-García. <em>Communications Physics</em> Vol. 9, 117 (2026).</li>
     <li><a href="https://doi.org/10.3390/math14101654"> "Unsupervised Clustering of Cities Using Commercial Air Traffic: A Proxy for Economic Connectivity"</a>, S. Iglesias-Perez, A. Partida, J. Murillo, R. Criado. <em>Mathematics </em> Vol. 16, no. 10, 1654 (2026).</li>
     <li><a href="https://doi.org/10.1063/5.0349918"> "Hypergraph-based clustering via nonlocal nonlinear evolution operators"</a>, A. I. Muñoz, R Criado. <em>Chaos: An Interdisciplinary Journal of Nonlinear Science </em> Vol. 36, no. 9, 093131 (2026).</li>
+    <li><a href="[https://doi.org/10.1063/5.0349918](https://doi.org/10.1007/s41060-026-01102-z)"> "Higher-order linegraph topology for intrusion detection: a hypergraph approach"</a>, K.K.H. Manjunatha, S. Iglesias-Pérez, R. Criado. <em>International Journal of Data Science and Analytics </em> Vol. 22, no. 1, 135 (2026).</li>
 </ol>
 
 <strong>2025</strong>
