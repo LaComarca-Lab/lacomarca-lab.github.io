@@ -1,15 +1,47 @@
 # Project student members listed below will appear on the /team page
-    
-- name: Fernando Meca Hernández
-  role: Doble grado de Matemáticas e Informática 
+
+- name: NOMBRE
+  role: Grado de Matemáticas 
   image: assets/theme/images/placeholder.png 
   description: >
-    Trabajo de Fin de Grado: "Axiomas de centralidad".
+    Trabajo de Fin de Grado: "Modelos matemáticos para el análisis de la vulnerabilidad y la resiliencia en redes complejas".
+    Curso 2025-26.
+
+
+    - name: NOMBRE
+  role: Grado de Matemáticas  
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Métodos matemáticos para el diagnóstico de patologías basado en redes complejas funcionales y ciencia de datos".
+    Curso 2025-26.
+
+
+    - name: NOMBRE
+  role: Grado de Matemáticas 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Análisis del comercio internacional basado en herramientas matemáticas de redes complejas".
+    Curso 2025-26.
+
+
+      - name: NOMBRE
+  role: Grado de Matemáticas 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Paseantes aleatorios en redes complejas: modelos matemáticos y aplicaciones".
+    Curso 2025-26.
+    
+    
+- name: Fernando Meca Hernández
+  role: Grado de Matemáticas 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Sensibilidad y control paramétrico de PageRank: ¿cuánto se puede controlar el motor de búsqueda de Google?".
     Curso 2025-26.
 
 
 - name: Thatyana Alarza Souza
-  role: Doble grado de Matemáticas e Informática
+  role: Doble Grado de Matemáticas e Ingeniería de Software
   image: assets/theme/images/placeholder.png 
   description: >
     Trabajo de Fin de Grado: "Clasificación de datos genómicos usando algoritmos de clustering".
@@ -21,6 +53,30 @@
   description: >
     Trabajo de Fin de Grado: "Clasificación de datos genómicos usando detección de comunidades".
 
+
+- name: NOMBRE 
+  role: Doble grado de Matemáticas e Informática 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Análisis de subtipos en el cáncer de vejiga utilizando Machine Learning".
+    Curso 2024-25.
+
+
+    - name: NOMBRE 
+  role: Doble grado de Matemáticas e Informática 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Análisis de subtipos en el cáncer de vejiga utilizando redes complejas".
+    Curso 2024-25.
+
+    
+- name: Esther Teso Cuesta
+  role:Doble Grado de Matemáticas e Ingeniería de Software
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "El teorema de factorización de Weierstrass: construcción de funciones holomorfas con ceros prefijados".
+    Curso 2024-25.
+
     
 - name: Pedro Cristino Moreno
   role: Doble grado de Matemáticas e Informática 
@@ -30,13 +86,22 @@
     Curso 2024-25.
 
 
+- name: NOMBRE
+  role: Doble grado de Matemáticas e Informática 
+  image: assets/theme/images/placeholder.png 
+  description: >
+    Trabajo de Fin de Grado: "Análisis de grafos con relaciones de orden superior".
+    Curso 2023-24.
+
+    
 - name: Lucía Salgado Barrio
   role: Doble grado de Matemáticas e Informática
   image: assets/theme/images/placeholder.png 
   description: >
     Trabajo de Fin de Grado: "Análisis de mercados de valores empleando redes complejas funcionales".
+     Curso 2023-24.
 
-    
+     
 - name: Juan Antonio Gordillo Gayo
   role: Doble grado de Matemáticas e Informática
   image: assets/theme/images/placeholder.png 
@@ -49,5 +114,5 @@
   image: assets/theme/images/placeholder.png 
   description: >
     Trabajo de Fin de Grado: "Modelos matemáticos de propagación de malware y ciberepidemias, basados en análisis de redes complejas y ecuaciones diferenciales".
-    
+     Curso 2022-23.
 
