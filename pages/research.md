@@ -50,12 +50,14 @@ Síguenos para estar al tanto de nuestras novedades!
 <strong>2026</strong>
 <ol>
     <li><a href="https://doi.org/10.1038/s42005-026-02543-5"> "Equitability and explosive synchronisation in multiplex and higher-order networks"</a>, by K. Kovalenko, G. Contreras-Aso, C. I. del Genio, S. Boccaletti, R. J. Sánchez-García. <em>Communications Physics</em> Vol. 9, 117 (2026).</li>
+    <li><a href="https://doi.org/10.3390/math14101654"> "Unsupervised Clustering of Cities Using Commercial Air Traffic: A Proxy for Economic Connectivity"</a>, S. Iglesias-Perez, A. Partida, J. Murillo, R. Criado. <em>Mathematics </em> Vol. 16, no. 10, 1654 (2026).</li>
 </ol>
 
 <strong>2025</strong>
 
 <ol>
     <li><a href="https://doi.org/10.1016/j.laa.2025.12.014"> "Fixed points of Personalized PageRank centrality: From irreducible to reducible networks"</a>, by D. Aleja, J. Flores, E. Primo, D. Rodríguez, M. Romance. <em>Linear Algebra and its Applications </em> Vol. 733 (2025), 233-272.</li>
+    <li><a href="https://doi.org/10.1038/s41598-025-32380-5"> "Matrix-based pagerank control in hypergraphs for semantic text summaries"</a>, by D. Aleja, R. Criado, Á. Criado-Alonso, G. Vera de Salas. <em>LScientific reports </em> Vol. 16, 2481 (2025).</li>
     <li><a href="https://doi.org/10.1016/j.physd.2025.134868"> "On the application of Visibility Graphs in the Spectral Domain for Speaker Recognition"</a>, by Hernan Bocaccio, Sergio Iglesias-Pérez, Miguel Romance, Regino Criado, Gabriel B. Mindlin. <em>Physica D: Nonlinear Phenomena</em> Vol. 481 (2025), 134868.</li>
     <li><a href="https://doi.org/10.1016/j.chaos.2025.116599"> "Scalar embedding of temporal network trajectories"</a>, by L. Lacasa, F. J. Marín-Rodríguez, N. Masuda, L. Arola-Fernández. <em>Chaos, Solitons & Fractals</em> Vol. 199, Part 1 (2025), 116599.</li>
     <li><a href="https://doi.org/10.48550/arXiv.2503.19927"> "Fully personalized PageRank and algebraic methods to distribute a random walker"</a>, by G. Contreras-Aso, R. Criado, M. Romance. <em>Computational and Applied Mathematics</em> Vol. 44, Issue 383 (2025).</li>
