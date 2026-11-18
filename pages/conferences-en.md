@@ -3,6 +3,7 @@ layout: default
 lang: en
 title: Conferences and Research Visits
 description: Conferences and research visits by our members
+background: assets/theme/backgrounds/network-rope.jpg
 permalink: /conferences-en/
 translation_url: /conferences/
 ---
