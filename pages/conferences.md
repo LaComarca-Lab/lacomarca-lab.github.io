@@ -3,8 +3,8 @@ layout: default
 lang: es
 title: Congresos y estancias
 description: Participación en congresos y estancias de investigación
-permalink: /congress-stays/
-translation_url: /congress-stays-en/
+permalink: /conferences/
+translation_url: /conferences-en/
 ---
 
 En esta sección se recogen los congresos científicos
