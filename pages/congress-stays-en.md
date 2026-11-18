@@ -3,8 +3,8 @@ layout: default
 lang: en
 title: Conferences and Research Visits
 description: Conferences and research visits by our members
-permalink: /congresos-estancias-en/
-translation_url: /congresos-estancias/
+permalink: /conferences-en/
+translation_url: /conferences/
 ---
 
 This section presents the scientific conferences and
