@@ -3,6 +3,7 @@ layout: default
 lang: es
 title: Congresos y estancias
 description: Participación en congresos y estancias de investigación
+background: assets/theme/backgrounds/seminars-background.jpg
 permalink: /conferences/
 translation_url: /conferences-en/
 ---
