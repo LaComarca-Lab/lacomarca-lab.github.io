@@ -24,8 +24,8 @@ los miembros del Laboratorio LaCoMaRCA.
   <li style="margin-bottom: 1em;">
     <div>
       <strong>Congreso:</strong> {{ e.titulo_es | escape }}
-      {% if e.lugar != "" %}
-        — {{ e.lugar | escape }}
+      {% if e.lugar_es != "" %}
+        — {{ e.lugar_es | escape }}
       {% endif %}
       — {{ e.fecha_es | escape }}
     </div>
