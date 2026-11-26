@@ -24,9 +24,9 @@ scientific conferences.
 {% if congresos.size > 0 %}
 <ul>
 {% for e in congresos %}
-  <li>
+  <li style="margin-bottom: 1em;">
     <div>
-      <strong>Congreso:</strong> {{ e.titulo_en | escape }}
+      <strong>Congreso:</strong> {{ e.titulo_es | escape }}
       {% if e.lugar != "" %}
         — {{ e.lugar | escape }}
       {% endif %}
@@ -41,9 +41,9 @@ scientific conferences.
 
     {% if e.charla_en != "" %}
     <div>
-      <strong>Comunicación:</strong> {{ e.charla_en | escape }} 
+      <strong>Comunicación:</strong> {{ e.charla_en | escape }}
       {% if e.modo_en != "" %}
-        ( {{ e.modo_en | escape }} )
+        ({{ e.modo_en | escape }})
       {% endif %}
     </div>
     {% endif %}
@@ -51,7 +51,7 @@ scientific conferences.
 {% endfor %}
 </ul>
 {% else %}
-No hay congresos registrados.
+There are no registered congresses.
 {% endif %}
 
 ### Research Visits
