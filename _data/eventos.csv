@@ -1,4 +1,4 @@
-﻿id,tipo,fecha,fecha_es,fecha_en,titulo_es,titulo_en,lugar_en,lugar_es2,participantes,charla_es,charla_en,modo_es,modo_en
+﻿id,tipo,fecha,fecha_es,fecha_en,titulo_es,titulo_en,lugar_es,lugar_en,participantes,charla_es,charla_en,modo_es,modo_en
 SINC-2026,congreso,2026-07,Julio de 2026,July 2026,XLVI Dynamics Days Europe,XLVI Dynamics Days Europe,Lisboa (Portugal),Lisbon (Portugal),Daniel Rodriguez,A dynamical system for the PageRank vector,A dynamical system for the PageRank vector,Charla,Talk
 ,congreso,2026-01,Enero de 2026,January 2026,4ª Reunión de la Sociedad Española de Sistemas Complejos,4th Meeting of the Spanish Society for Complex Systems,Sevilla (España),Seville (Spain),Daniel Rodriguez,On the iteration of the PageRank vector,On the iteration of the PageRank vector,Póster,Poster
 ,congreso,2026-02,Enero de 2026,January 2027,Congreso Bienal de la RSME,Biennal Congress of the Royal Mathematical Society,Alicante (España),Alicante (Spain),Daniel Rodriguez,Iterative PageRank and fixed points,Iterative PageRank and fixed points,Charla,Talk
