@@ -12,12 +12,60 @@ En esta sección se recogen los congresos científicos
 y las estancias de investigación en los que participan
 los miembros del Laboratorio LaCoMaRCA.
 
+{% assign eventos = site.data.eventos | sort: "fecha" | reverse %}
+
 ### Congresos científicos
 
-Información sobre nuestra participación en congresos
-nacionales e internacionales.
+{% assign congresos = eventos | where: "tipo", "congreso" %}
+
+{% if congresos.size > 0 %}
+<ul>
+{% for e in congresos %}
+  <li>
+    <strong>{{ e.fecha_es }}</strong>:
+    {% if e.url and e.url != "" %}
+      <a href="{{ e.url }}">{{ e.titulo_es | escape }}</a>
+    {% else %}
+      {{ e.titulo_es | escape }}
+    {% endif %}
+    {% if e.lugar != "" %}
+      — {{ e.lugar | escape }}
+    {% endif %}
+    {% if e.participantes != "" %}
+      — {{ e.participantes | escape }}
+    {% endif %}
+    {% if e.detalle_es != "" %}
+      — {{ e.detalle_es | escape }}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% else %}
+No hay congresos registrados.
+{% endif %}
 
 ### Estancias de investigación
 
-Información sobre las estancias de investigación
-realizadas por los miembros del Laboratorio.
+{% assign estancias = eventos | where: "tipo", "estancia" %}
+
+{% if estancias.size > 0 %}
+<ul>
+{% for e in estancias %}
+  <li>
+    <strong>{{ e.fecha_es }}</strong>:
+    {{ e.titulo_es | escape }}
+    {% if e.lugar != "" %}
+      — {{ e.lugar | escape }}
+    {% endif %}
+    {% if e.participantes != "" %}
+      — {{ e.participantes | escape }}
+    {% endif %}
+    {% if e.detalle_es != "" %}
+      — {{ e.detalle_es | escape }}
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% else %}
+No hay estancias registradas.
+{% endif %}
