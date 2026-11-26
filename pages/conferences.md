@@ -21,7 +21,7 @@ los miembros del Laboratorio LaCoMaRCA.
 {% if congresos.size > 0 %}
 <ul>
 {% for e in congresos %}
-  <li>
+  <li style="margin-bottom: 1em;">
     <div>
       <strong>Congreso:</strong> {{ e.titulo_es | escape }}
       {% if e.lugar != "" %}
@@ -38,9 +38,9 @@ los miembros del Laboratorio LaCoMaRCA.
 
     {% if e.charla_es != "" %}
     <div>
-      <strong>Comunicación:</strong> {{ e.charla_es | escape }} 
+      <strong>Comunicación:</strong> {{ e.charla_es | escape }}
       {% if e.modo_es != "" %}
-        ( {{ e.modo_es | escape }} )
+        ({{ e.modo_es | escape }})
       {% endif %}
     </div>
     {% endif %}
