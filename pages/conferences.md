@@ -22,16 +22,19 @@ los miembros del Laboratorio LaCoMaRCA.
 <ul>
 {% for e in congresos %}
   <li>
-    <strong>{{ e.fecha_es }}</strong>. 
+    <li><strong>{{ e.fecha_es }}</strong> 
     {{e.titulo_es | escape }}
-    {% if e.participantes != "" %}
-      — {{ e.participantes | escape }}
-    {% endif %}
     {% if e.lugar != "" %}
       — {{ e.lugar | escape }}
     {% endif %}
     {% if e.charla_es != "" %}
       — {{ e.charla_es | escape }}
+    {% endif %}
+      {% if e.modo_es != "" %}
+      — {{ e.modo_es | escape }}
+    {% endif %}
+      {% if e.participantes != "" %}
+      {{ e.participantes | escape }}
     {% endif %}
   </li>
 {% endfor %}
