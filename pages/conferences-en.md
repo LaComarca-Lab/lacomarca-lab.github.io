@@ -27,8 +27,8 @@ scientific conferences.
   <li style="margin-bottom: 1em;">
     <div>
       <strong>Congress:</strong> {{ e.titulo_es | escape }}
-      {% if e.lugar != "" %}
-        — {{ e.lugar | escape }}
+      {% if e.lugar_en != "" %}
+        — {{ e.lugar_en | escape }}
       {% endif %}
       — {{ e.fecha_en | escape }}
     </div>
