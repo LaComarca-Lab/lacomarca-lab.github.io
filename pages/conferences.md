@@ -23,7 +23,7 @@ los miembros del Laboratorio LaCoMaRCA.
 {% for e in congresos %}
   <li>
     <strong>{{ e.fecha_es }}</strong>. 
-    {{Congreso: e.titulo_es | escape }}
+    {{e.titulo_es | escape }}
     {% if e.participantes != "" %}
       — {{ e.participantes | escape }}
     {% endif %}
