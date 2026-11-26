@@ -38,7 +38,10 @@ los miembros del Laboratorio LaCoMaRCA.
 
     {% if e.charla_es != "" %}
     <div>
-      <strong>Comunicación:</strong> {{ e.charla_es | escape }}
+      <strong>Comunicación:</strong> {{ e.charla_es | escape }} 
+      {% if e.modo_es != "" %}
+        ( {{ e.modo_es | escape }} )
+      {% endif %}
     </div>
     {% endif %}
   </li>
