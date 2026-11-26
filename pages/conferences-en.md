@@ -26,7 +26,7 @@ scientific conferences.
 {% for e in congresos %}
   <li style="margin-bottom: 1em;">
     <div>
-      <strong>Congreso:</strong> {{ e.titulo_es | escape }}
+      <strong>Congress:</strong> {{ e.titulo_es | escape }}
       {% if e.lugar != "" %}
         — {{ e.lugar | escape }}
       {% endif %}
@@ -35,13 +35,13 @@ scientific conferences.
 
     {% if e.participantes != "" %}
     <div>
-      <strong>Participantes:</strong> {{ e.participantes | escape }}
+      <strong>Participants:</strong> {{ e.participantes | escape }}
     </div>
     {% endif %}
 
     {% if e.charla_en != "" %}
     <div>
-      <strong>Comunicación:</strong> {{ e.charla_en | escape }}
+      <strong>Comunication:</strong> {{ e.charla_en | escape }}
       {% if e.modo_en != "" %}
         ({{ e.modo_en | escape }})
       {% endif %}
