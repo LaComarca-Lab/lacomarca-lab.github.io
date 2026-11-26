@@ -25,20 +25,27 @@ scientific conferences.
 <ul>
 {% for e in congresos %}
   <li>
-    <strong>{{ e.fecha_en }}</strong>:
-    {% if e.url and e.url != "" %}
-      <a href="{{ e.url }}">{{ e.titulo_en | escape }}</a>
-    {% else %}
-      {{ e.titulo_en | escape }}
-    {% endif %}
-    {% if e.lugar != "" %}
-      — {{ e.lugar | escape }}
-    {% endif %}
+    <div>
+      <strong>Congreso:</strong> {{ e.titulo_en | escape }}
+      {% if e.lugar != "" %}
+        — {{ e.lugar | escape }}
+      {% endif %}
+      — {{ e.fecha_en | escape }}
+    </div>
+
     {% if e.participantes != "" %}
-      — {{ e.participantes | escape }}
+    <div>
+      <strong>Participantes:</strong> {{ e.participantes | escape }}
+    </div>
     {% endif %}
-    {% if e.detalle_en != "" %}
-      — {{ e.detalle_en | escape }}
+
+    {% if e.charla_en != "" %}
+    <div>
+      <strong>Comunicación:</strong> {{ e.charla_en | escape }} 
+      {% if e.modo_en != "" %}
+        ( {{ e.modo_en | escape }} )
+      {% endif %}
+    </div>
     {% endif %}
   </li>
 {% endfor %}
@@ -58,16 +65,16 @@ Laboratory.
 <ul>
 {% for e in estancias %}
   <li>
-    <strong>{{ e.fecha_es }}</strong>:
-    {{ e.titulo_es | escape }}
+    <strong>{{ e.fecha_en }}</strong>:
+    {{ e.titulo_en | escape }}
     {% if e.lugar != "" %}
       — {{ e.lugar | escape }}
     {% endif %}
     {% if e.participantes != "" %}
       — {{ e.participantes | escape }}
     {% endif %}
-    {% if e.detalle_es != "" %}
-      — {{ e.detalle_es | escape }}
+    {% if e.detalle_en != "" %}
+      — {{ e.detalle_en | escape }}
     {% endif %}
   </li>
 {% endfor %}
